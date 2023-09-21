@@ -1,0 +1,82 @@
+
+#container{
+    background:linear-gradient(to right, rgba(46, 196, 245, 0.8) 40%,black ,05%,rgb(234, 231, 54) 59%);
+    border-radius: 20px;
+    height: 800px;
+    width: 800px;
+    position: relative;
+    left: 80px;
+    border: 2px black solid;
+ }
+img{
+    position: relative;
+    left: 40px;
+    border-radius: 20px;
+    margin-top: 40px;
+    border: 2px black solid;
+}
+.para{
+    position: relative;
+    left: 40px;
+    border-radius: 20px;
+    margin-top: 40px;
+    border: 2px black solid;
+    background-color: aqua;
+    width: 200px;
+    font-size: 20px;
+    text-align: center;
+    color:black ;
+
+}
+.para2{
+    position: relative;
+    left: 40px;
+    font-size: 20px;
+}
+.madhava4{
+    list-style-type: none;
+    color: black;
+}
+.madhav1{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+}
+.madhav2{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+}
+.madhav3{
+    position: absolute;
+    top: 75%;
+    left: 50%;
+}
+.madhav4{
+    position: absolute;
+    top: 86%;
+    left: 50%;
+}
+.madhav5{
+    position: absolute;
+    left: 60%;
+    top: 92.5%;
+}
+.madhav6{
+    position: absolute;
+    left: 75%;
+    top: 92.5%;
+}
+.madhav7{
+    position: absolute;
+    left: 86%;
+    top: 92.5%;
+}
+
+
+    
+
+
+
+
+
